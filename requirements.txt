@@ -1,0 +1,10 @@
+torch
+transformers==4.48.3
+tokenizers==0.21.0
+jiwer
+accelerate
+sentencepiece
+numpy
+pandas
+matplotlib
+Pillow
