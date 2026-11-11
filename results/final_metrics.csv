@@ -1,0 +1,4 @@
+Model,Dataset,CER,WER
+Pretrained Baseline,Validation,0.132,0.3524
+Fine-Tuned TrOCR,Validation,0.0707279448,0.144601
+Fine-Tuned TrOCR,Test,0.07746457034762924,0.15109430669672072

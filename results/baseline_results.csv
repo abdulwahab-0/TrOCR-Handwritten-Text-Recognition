@@ -1,0 +1,2 @@
+model,dataset,CER,WER
+microsoft/trocr-small-stage1,Validation,0.1320400500625782,0.35244082840236685
